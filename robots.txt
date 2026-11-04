@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://fort-worth.lemurianstudios.com/sitemap.xml
